@@ -12,3 +12,8 @@ This repository contains the following programs
 
 5. Binary semaphore example between threads in C using POSIX-semaphore
 
+6. C program of popen() function  for read operation
+
+7. C program of shmfile to read, detach and destroy the shared memory
+
+8. C program of shmfile to write and detach the shared memory
