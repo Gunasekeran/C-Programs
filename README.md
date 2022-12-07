@@ -1,4 +1,4 @@
-# C-Programs
+# C_Programs
 
 This repository contains the following programs
 
